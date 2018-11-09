@@ -1,0 +1,71 @@
+<!--
+theme name:		tronkyfran-super
+version:		1.0
+author:			Rael
+email:			rael.gc@gmail.com
+website:		www.raelcunha.com
+license:		creative commons CC-BY-NC-SA
+-->
+
+<theme>
+
+  <formatVersion>3</formatVersion>
+
+  <view name="system, basic, detailed, video">
+
+    <helpsystem name="help">
+      <pos>1 1</pos>
+    </helpsystem>
+
+  </view>
+
+	<view name="system">
+
+    <image name="i18n-button-select" extra="true">
+      <path>./art/help/dpad_leftright.svg</path>
+      <pos>0.005 0.945</pos>
+    </image>
+    <image name="i18n-help-select" extra="true">
+      <path>./i18n/${locale}/browse.png</path>
+      <pos>0.028 0.94</pos>
+    </image>
+    <image name="i18n-button-open" extra="true">
+      <path>./art/help/button_a.svg</path>
+      <pos>0.12 0.945</pos>
+    </image>
+    <image name="i18n-help-open" extra="true">
+      <path>./i18n/pt-br/open.png</path>
+      <pos>0.14 0.94</pos>
+    </image>
+	</view>
+
+  <view name="basic, detailed, video">
+
+    <image name="i18n-button-browse" extra="true">
+      <path>./art/help/dpad_updown.svg</path>
+      <pos>0.005 0.945</pos>
+    </image>
+    <image name="i18n-help-browse" extra="true">
+      <path>./i18n/pt-br/browse.png</path>
+      <pos>0.028 0.94</pos>
+    </image>
+    <image name="i18n-button-back" extra="true">
+      <path>./art/help/button_b.svg</path>
+      <pos>0.12 0.945</pos>
+    </image>
+    <image name="i18n-help-back" extra="true">
+      <path>./i18n/pt-br/back.png</path>
+      <pos>0.143 0.94</pos>
+    </image>
+    <image name="i18n-button-launch" extra="true">
+      <path>./art/help/button_a.svg</path>
+      <pos>0.215 0.945</pos>
+    </image>
+    <image name="i18n-help-launch" extra="true">
+      <path>./i18n/pt-br/launch.png</path>
+      <pos>0.238 0.94</pos>
+    </image>
+
+	</view>
+
+</theme>

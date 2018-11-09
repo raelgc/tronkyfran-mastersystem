@@ -1,0 +1,43 @@
+<theme>
+
+  <formatVersion>3</formatVersion>
+
+  <view name="basic, detailed, video">
+
+    <text name="md_description">
+      <pos>0.4 0.22</pos>
+      <size>0.23 0.602</size>
+    </text>
+
+    <image name="md_image">
+      <maxSize>0.350 0.500</maxSize>
+    </image>
+
+    <text name="md_lbl_players">
+      <pos>0.32 0.87</pos>
+    </text>
+
+    <text name="md_players">
+      <pos>0.363 0.87</pos>
+    </text>
+
+    <text name="md_developer">
+      <pos>0.4 0.87</pos>
+    </text>
+
+  </view>
+
+  <feature supported="video">
+    <view name="video">
+      <image name="md_image">
+        <pos>1 1</pos>
+      </image>
+      <video name="md_video">
+        <origin>0 0</origin>
+        <pos>0.025 0.22</pos>
+  			<maxSize>0.455 0.455</maxSize>
+      </video>
+    </view>
+  </feature>
+
+</theme>
