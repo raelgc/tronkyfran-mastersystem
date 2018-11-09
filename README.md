@@ -1,6 +1,4 @@
-# Tronkyfran Themes for EmulationStation
-
-![Arcade banner](arcade/art/arcade_art_blur.jpg)
+# Tronkyfran Super Theme for EmulationStation
 
 A dark [EmulationStation](http://www.emulationstation.org/) theme using big space for the screenshots.
 
@@ -17,7 +15,7 @@ It supports translations (i18n) for the help buttons.
 3. Run in a terminal:
 
        cd ~/.emulationstation/themes
-       git clone https://github.com/raelgc/tronkyfran-super
+       git clone https://github.com/raelgc/es-theme-tronkyfran-super
 
 ## Update
 
