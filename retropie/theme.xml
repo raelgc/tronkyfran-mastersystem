@@ -2,7 +2,6 @@
 
   <formatVersion>3</formatVersion>
   <include>./../theme.xml</include>
-  <include>./../landscape.xml</include>
 
   <view name="basic, detailed, video">
 
