@@ -1,16 +1,12 @@
 <theme>
-    <formatVersion>3</formatVersion>
-    <include>./../theme.xml</include>
+	<formatVersion>3</formatVersion>
+	<include>./../theme.xml</include>
 
 	<view name="basic, detailed, video">
 
-    <textlist name="gamelist">
-      <selectorColor>223c92</selectorColor>
-    </textlist>
-
-    <image name="logo">
-      <path>./../art/logos/saturn_long.svg</path>
-    </image>
+		<textlist name="gamelist">
+			<selectorColor>223c92</selectorColor>
+		</textlist>
 
 	</view>
 
