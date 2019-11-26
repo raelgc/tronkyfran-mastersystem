@@ -1,0 +1,22 @@
+<theme>
+
+  <formatVersion>3</formatVersion>
+  <include>./../theme.xml</include>
+
+  <view name="basic, detailed, video">
+
+    <image name="header" extra="true">
+      <path>./art/header.png</path>
+    </image>
+
+    <image name="controller" extra="true">
+        <path>./../art/controllers/ps2.png</path>
+    </image>
+
+    <textlist name="gamelist">
+      <selectorColor>0b4c9e</selectorColor>
+    </textlist>
+
+  </view>
+
+</theme>
