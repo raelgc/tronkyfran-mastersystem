@@ -6,7 +6,7 @@
 	<view name="basic, detailed, video">
 
     <textlist name="gamelist">
-      <selectorColor>4e4e4e</selectorColor>
+      <selectorColor>6e6e6e</selectorColor>
     </textlist>
 
 	</view>

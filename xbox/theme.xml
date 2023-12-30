@@ -3,4 +3,11 @@
   <formatVersion>3</formatVersion>
   <include>./../theme.xml</include>
 
+	<view name="basic, detailed, video">
+
+    <textlist name="gamelist">
+      <selectorColor>8bab00</selectorColor>
+    </textlist>
+
+	</view>
 </theme>
