@@ -1,0 +1,28 @@
+<theme>
+
+  <formatVersion>3</formatVersion>
+  <include>./theme.xml</include>
+
+	<view name="system">
+
+    <image name="logo">
+      <path>./art/logos/${system.theme}.png</path>
+    </image>
+
+    <image name="background" extra="true">
+      <path>./art/backgrounds/${system.theme}_art_blur.jpg</path>
+    </image>
+
+	</view>
+
+  <view name="basic, detailed, video">
+
+    <image name="logo">
+      <path>./art/logos/${system.theme}.png</path>
+      <pos>0.025 0.079</pos>
+      <maxSize>0.45 0.1</maxSize>
+      <origin>0 0.5</origin>
+    </image>
+
+	</view>
+</theme>
