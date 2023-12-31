@@ -2,12 +2,12 @@
     <formatVersion>3</formatVersion>
     <include>./../theme.xml</include>
 
-	<view name="basic, detailed, video">
+	  <view name="basic, detailed, video">
 
-	  <textlist name="gamelist">
-	  <selectorColor>009ac7</selectorColor>
-	  </textlist>
+	    <textlist name="gamelist">
+	      <selectorColor>009ac7</selectorColor>
+	    </textlist>
 
-	</view>
+	  </view>
 
 </theme>
