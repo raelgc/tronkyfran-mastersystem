@@ -21,7 +21,7 @@ It supports translations (i18n) for the help buttons.
 
 In order to update your installed theme (if you installed with above instructions), open a terminal and run:
 
-    cd ~/.emulationstation/themes/tronkyfran-super
+    cd ~/.emulationstation/themes/es-theme-tronkyfran-super
     git pull
 
 ## Enable other languages in help
